@@ -2,12 +2,27 @@
 
 ## 白犬酱（しろいいぬ / Shiroiinu）
 
-白发·红瞳·犬娘
-
 生日：12月2日
 
-看板娘鉴赏
+身高：145cm
+
+初登场：2012年冬季CM
+
+商稿登场：个展、I'L封面等
+
+动物：犬（大白熊犬）
+
+性格：纯真、率真、为主人着想
+
+喜欢的东西：散步、骨头零食
+
+发色：白
+
+瞳色：红
+
+棉花糖：A 
+
 
 <details>
-<summary>展开/收起</summary>
-<img src= https://user-images.githubusercontent.com/118591722/233266387-bcf7b378-9e63-42a5-ba52-4110fcb90fd0.jpg /> 
+<summary>鉴赏戳</summary>
+<img src= https://user-images.githubusercontent.com/118591722/233268682-ac1bdccf-d29e-409d-8dad-8abd18258125.jpg /> 
