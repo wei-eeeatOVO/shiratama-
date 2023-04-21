@@ -92,7 +92,8 @@
 棉花糖：B
 
 <details>
- <summary></summary>
- <img scr= ![ころねちゃん设定](https://user-images.githubusercontent.com/118591722/233543965-788e1971-7a0a-4931-ab3b-314ae958b622.png)
+ <summary>鉴赏/戳这里喵</summary>
+ <img scr= https://user-images.githubusercontent.com/118591722/233543965-788e1971-7a0a-4931-ab3b-314ae958b622.png
 >
+ 此图为鉴赏图 可爱的喵
  </details>
