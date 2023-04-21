@@ -93,7 +93,7 @@
 
 <details>
  <summary>鉴赏/戳这里喵</summary>
- <img scr= https://user-images.githubusercontent.com/118591722/233543965-788e1971-7a0a-4931-ab3b-314ae958b622.png
->
+ <img scr= https://user-images.githubusercontent.com/118591722/233544253-eb18b756-4547-4395-85d9-c51fcb7644f2.png
+/>
  此图为鉴赏图 可爱的喵
  </details>
