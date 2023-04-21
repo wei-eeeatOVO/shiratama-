@@ -64,4 +64,35 @@
  <summary>鉴赏/戳这里喵</summary>
  <img src= https://user-images.githubusercontent.com/118591722/233543150-88f5f180-e3bf-4db7-9ec5-09d62eba2f57.jpg
 />
+ 图为第一次出场色纸
+ </details>
+
+#### 貌似设定上跟白犬酱是好朋友^v^ 一个大棉花糖和小棉花糖 赞耶^^
+
+# 团团喵（ころね / Cornet）
+
+生日：3月3日
+
+身高：149cm
+
+初登场：2017年？SAKURA PALACE
+
+商稿登场：I'L封面、メロンブックスUnderWears、ブレンドリームキャンディー
+
+动物：猫（混合种）
+
+性格：我行我素、贪玩、大方开朗
+
+喜欢的东西：つららちゃん（tips:下文介绍到的另一位看板娘）、橙子、鱼
+
+发色：金
+
+瞳色：蓝
+
+棉花糖：B
+
+<details>
+ <summary></summary>
+ <img scr= ![ころねちゃん设定](https://user-images.githubusercontent.com/118591722/233543965-788e1971-7a0a-4931-ab3b-314ae958b622.png)
+>
  </details>
