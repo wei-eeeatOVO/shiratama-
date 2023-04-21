@@ -62,5 +62,6 @@
 
 <details>
  <summary>鉴赏/戳这里喵</summary>
- <img src= https://user-images.githubusercontent.com/118591722/233542959-c078c5f2-1d5a-45b8-82a7-961bf093c1e6.jpg />
+ <img src= https://user-images.githubusercontent.com/118591722/233543150-88f5f180-e3bf-4db7-9ec5-09d62eba2f57.jpg
+/>
  </details>
